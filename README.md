@@ -9,4 +9,4 @@ face detection using PyTorch facenet-pytorch MTCNN
 
 
 #Output image = "download.png"
-![download](https://github.com/user-attachments/assets/beed1ba9-afad-428e-8011-5f810dd882b2)
+ ![download](https://github.com/user-attachments/assets/beed1ba9-afad-428e-8011-5f810dd882b2)
